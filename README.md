@@ -1,8 +1,8 @@
 # macarrones_con_tomate
 El enlace a nuestro repositorio es el siguiente: https://github.com/acasasaez/macarrones_con_tomate_1.git
 
-```
-Ejercicio 1:
+
+    Ejercicio 1:
 
 ```
 Matriz =[[1,1,1,3],
