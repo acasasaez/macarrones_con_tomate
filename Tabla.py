@@ -5,7 +5,7 @@ def funcion():
             a = int(input("valor"))
             b =int(input("valor"))
             
-            print("hola")
+            
             break
         except :
             print("Error")
@@ -14,4 +14,3 @@ def funcion():
             for j in range (b):
                 print("*",end = "" )
 
-funcion()
