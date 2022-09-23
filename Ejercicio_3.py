@@ -1,5 +1,9 @@
-def funcion():
-    Lista=[]
+from calendar import c
+
+
+
+def funcion(Lista =[]):
+    Lista =[]
     while True:
         try:
             a = int(input("Valor de inicio de lista"))
@@ -8,7 +12,9 @@ def funcion():
             c!=0
             for i in range (a,b+1,c):
                 Lista.append(i)
-                print (Lista)
+            print(Lista) 
             break
         except :
             print("Error")
+
+funcion()
